@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/RayDev"><img src="https://pbs.twimg.com/profile_images/1071582837030060032/kKV-I01n_400x400.jpg" height="200" alt="All-in-One-V3"></a>
+  <a href="https://images-ext-1.discordapp.net/external/OnOuP8Ir-ofEczlB9y5us7IT6YP7bJG-D0_MJfrH6hs/%3Fsize%3D2048/https/cdn.discordapp.com/banners/1118271645191241860/fd4559d80d7bcc0d41d92bc930dfae95.webp?format=webp"></a>
   <br>
   Cognixion Studio
   <br>
