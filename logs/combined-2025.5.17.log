@@ -1,0 +1,56 @@
+{"level":30,"time":1747547740928,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Validating config file and environment variables"}
+{"level":30,"time":1747547740969,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Loading commands..."}
+{"level":20,"time":1747547741511,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1747547741512,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1747547741514,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1747547741516,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1747547741524,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1747547741533,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1747547741534,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1747547741535,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1747547741537,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1747547741538,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1747547741548,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1747547741549,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1747547741550,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1747547741550,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1747547741551,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1747547741551,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1747547741552,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1747547741552,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1747547741553,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1747547741553,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1747547741554,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1747547741555,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1747547741557,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1747547741558,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1747547741572,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1747547741573,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1747547741573,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1747547741594,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Loaded 105 commands"}
+{"level":30,"time":1747547741594,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Loaded 86 slash commands"}
+{"level":30,"time":1747547741594,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Loading contexts..."}
+{"level":30,"time":1747547741595,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1747547741595,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1747547741595,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Loading events..."}
+{"level":30,"time":1747547741628,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1747547741628,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Launching dashboard"}
+{"level":30,"time":1747547741856,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1747547744755,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1747547744774,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1747547744774,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"http://localhost:8080"}
+{"level":30,"time":1747547745566,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Logged in as Cognixion Studio#7279! (1308683342077497364)"}
+{"level":20,"time":1747547745567,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Node \"Music\" debug: connection: creating websocket..."}
+{"level":30,"time":1747547745568,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Music Manager initialized"}
+{"level":30,"time":1747547745568,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1747547746088,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Successfully registered interactions"}
+{"level":20,"time":1747547746581,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Node \"Music\" debug: connection: lavaclient <<< ready: {\"resumed\":false,\"sessionId\":\"wq2f670w30g4nfkp\",\"op\":\"ready\"}"}
+{"level":20,"time":1747547746581,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":108,\"playingPlayers\":5,\"uptime\":89200042,\"memory\":{\"free\":229102152,\"used\":307768760,\"allocated\":536870912,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.048701298701298704},\"op\":\"stats\"}"}
+{"level":30,"time":1747547746581,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Node \"Music\" connected"}
+{"level":20,"time":1747547746581,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Node \"Music\" debug: connection: connected in 1013ms"}
+{"level":30,"time":1747547747444,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Giveaway Manager initialized"}
+{"level":20,"time":1747547806577,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":109,\"playingPlayers\":6,\"uptime\":89260041,\"memory\":{\"free\":66181424,\"used\":470689488,\"allocated\":536870912,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.016233766233766232},\"op\":\"stats\"}"}
+{"level":20,"time":1747547866575,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":109,\"playingPlayers\":6,\"uptime\":89320041,\"memory\":{\"free\":222636032,\"used\":314234880,\"allocated\":536870912,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.03289473684210526},\"op\":\"stats\"}"}
+{"level":20,"time":1747547926586,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":109,\"playingPlayers\":6,\"uptime\":89380042,\"memory\":{\"free\":70865944,\"used\":466004968,\"allocated\":536870912,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.06329113924050633},\"op\":\"stats\"}"}
+{"level":30,"time":1747547979396,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Node \"Music\" disconnected"}
+{"level":20,"time":1747547979396,"pid":12656,"hostname":"DESKTOP-LIPRI4N","msg":"Node \"Music\" debug: connection: unable to reconnect"}
